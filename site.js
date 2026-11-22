@@ -1,4 +1,4 @@
-const CODE = "202008091145404250";
+const CODE = "202008091143023798";
 const HOME = `https://vimla.se/?${CODE}`;
 const plans = [
   {data:1, gb:10,  was:5,   now:"10 kr/mån", then:"därefter 110 kr/mån"},
